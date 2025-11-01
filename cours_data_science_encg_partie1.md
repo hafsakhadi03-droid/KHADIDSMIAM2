@@ -1,9 +1,9 @@
 # COURS DE SCIENCE DES DONNÉES
 
-# A. Larhlimi
+# Hafsa KHADI
+<img width="864" height="1184" alt="image" src="https://github.com/user-attachments/assets/a8b9727a-b712-4ea9-8085-e2f2f015c419" />
 
 
-image1.jpg
 
 ## École Nationale de Commerce et de Gestion (ENCG) - 
 

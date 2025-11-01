@@ -4,8 +4,6 @@
 
 
 image1.jpg
-<img src="image1.jpg" style="height:264px;margin-right:232px"/>
-
 
 ## École Nationale de Commerce et de Gestion (ENCG) - 
 
